@@ -1,0 +1,30 @@
+{
+  "name": "bvn.cdn",
+  "version": "1.0.0",
+  "description": "a bvn cdn package that enables users access the bvn database api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/okmarq/bvncdn.git"
+  },
+  "keywords": [
+    "bvn",
+    "cdn",
+    "secured",
+    "api",
+    "registration",
+    "form"
+  ],
+  "author": "TeamBvn joel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/okmarq/bvncdn/issues"
+  },
+  "homepage": "https://github.com/okmarq/bvncdn#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
